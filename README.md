@@ -58,9 +58,11 @@ Dedicated ecosystems uniting founders, advisors, and corporate pilot buyers:
 
 Run this application immediately in your browser:
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ankitraj-sharma/tvb_Agent)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Ankitraj-sharma/tvb_Agent)
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Ankitraj-sharma/tvb_Agent)
 
+* **Deploy to Render (Free Cloud Production)**: Deploys the full Node.js Express backend + React frontend to a public URL with live Gemini AI execution.
 * **GitHub Codespaces (1-Click Full App)**: Automatically provisions a cloud Node.js environment via `.devcontainer`, installs dependencies, and runs `npm run dev` with port 3000 forwarded to your browser.
 * **StackBlitz (1-Click In-Browser)**: Runs the complete application directly within your browser via WebContainers.
 
